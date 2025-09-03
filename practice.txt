@@ -1,0 +1,2 @@
+Week 2 setup complete by <Alyson Walters>
+Editing this file by practicing another commit!
